@@ -27,5 +27,6 @@
 *.out
 *.app
 
-# XCode Project
+# Mac Things
 *.xcodeproj
+*.DS_Store
